@@ -1,0 +1,322 @@
+.element-pay-page {
+    background-color: #1c2555;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .element-pay-page .div {
+    background-color: #1c2555;
+    overflow: hidden;
+    width: 1728px;
+    height: 1520px;
+    position: relative;
+  }
+  
+  .element-pay-page .CONGRATS-you-are-now {
+    position: absolute;
+    width: 1024px;
+    top: 210px;
+    left: 371px;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 128px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pay-page .text-wrapper {
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 128px;
+    letter-spacing: 0;
+  }
+  
+  .element-pay-page .span {
+    font-family: "Akshar-Regular", Helvetica;
+    font-size: 96px;
+  }
+  
+  .element-pay-page .text-wrapper-2 {
+    font-size: 96px;
+  }
+  
+  .element-pay-page .group {
+    position: absolute;
+    width: 378px;
+    height: 171px;
+    top: 1171px;
+    left: 695px;
+  }
+  
+  .element-pay-page .overlap-group {
+    position: relative;
+    width: 376px;
+    height: 171px;
+    background-color: #55ce37;
+    border-radius: 43px;
+  }
+  
+  .element-pay-page .DOWNLOAD-SCHEDULE {
+    position: absolute;
+    width: 368px;
+    top: 16px;
+    left: 4px;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #07005f;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pay-page .overlap-wrapper {
+    position: absolute;
+    width: 1782px;
+    height: 148px;
+    top: 0;
+    left: 0;
+  }
+  
+  .element-pay-page .overlap {
+    position: relative;
+    width: 1772px;
+    height: 148px;
+  }
+  
+  .element-pay-page .rectangle {
+    position: absolute;
+    width: 1734px;
+    height: 126px;
+    top: 11px;
+    left: 0;
+    background-color: #ffffff;
+  }
+  
+  .element-pay-page .overlap-group-wrapper {
+    position: absolute;
+    width: 195px;
+    height: 148px;
+    top: 0;
+    left: 1540px;
+  }
+  
+  .element-pay-page .overlap-group-2 {
+    position: relative;
+    width: 188px;
+    height: 128px;
+    top: 10px;
+  }
+  
+  .element-pay-page .polygon {
+    width: 109px;
+    height: 128px;
+    left: 79px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .element-pay-page .rectangle-2 {
+    position: absolute;
+    width: 81px;
+    height: 127px;
+    top: 1px;
+    left: 0;
+    background-color: #d9d9d9;
+  }
+  
+  .element-pay-page .ellipse {
+    position: absolute;
+    width: 118px;
+    height: 115px;
+    top: 17px;
+    left: 45px;
+    object-fit: cover;
+  }
+  
+  .element-pay-page .text-wrapper-3 {
+    position: absolute;
+    width: 733px;
+    top: 21px;
+    left: 180px;
+    font-family: "Inknut Antiqua-Regular", Helvetica;
+    font-weight: 400;
+    color: #090909;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pay-page .text-wrapper-4 {
+    position: absolute;
+    width: 64px;
+    top: 57px;
+    left: 978px;
+    font-family: "Saira Condensed-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pay-page .text-wrapper-5 {
+    position: absolute;
+    width: 69px;
+    top: 57px;
+    left: 1073px;
+    font-family: "Saira Condensed-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pay-page .rectangle-3 {
+    position: absolute;
+    width: 130px;
+    height: 126px;
+    top: 11px;
+    left: 1611px;
+    background-color: #646363;
+  }
+  
+  .element-pay-page .div-wrapper {
+    position: absolute;
+    width: 182px;
+    height: 146px;
+    top: 1px;
+    left: 1590px;
+  }
+  
+  .element-pay-page .overlap-2 {
+    position: relative;
+    width: 138px;
+    height: 127px;
+    top: 9px;
+  }
+  
+  .element-pay-page .group-2 {
+    background-color: #878686;
+    position: absolute;
+    width: 81px;
+    height: 127px;
+    top: 0;
+    left: 0;
+  }
+  
+  .element-pay-page .img {
+    width: 57px;
+    height: 126px;
+    left: 81px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .element-pay-page .group-3 {
+    position: absolute;
+    width: 182px;
+    height: 146px;
+    top: 1px;
+    left: 1546px;
+  }
+  
+  .element-pay-page .overlap-3 {
+    position: relative;
+    height: 127px;
+    top: 9px;
+  }
+  
+  .element-pay-page .group-4 {
+    background-color: #d9d9d9;
+    position: absolute;
+    width: 81px;
+    height: 127px;
+    top: 0;
+    left: 0;
+  }
+  
+  .element-pay-page .polygon-2 {
+    position: absolute;
+    width: 101px;
+    height: 126px;
+    top: 0;
+    left: 81px;
+  }
+  
+  .element-pay-page .group-5 {
+    position: absolute;
+    width: 182px;
+    height: 146px;
+    top: 1px;
+    left: 1496px;
+  }
+  
+  .element-pay-page .group-6 {
+    background-color: #ffffff;
+    position: absolute;
+    width: 81px;
+    height: 127px;
+    top: 0;
+    left: 0;
+  }
+  
+  .element-pay-page .frame {
+    display: flex;
+    flex-direction: column;
+    width: 114px;
+    height: 62px;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 10px;
+    position: absolute;
+    top: 46px;
+    left: 1481px;
+    background-color: #fc2323;
+  }
+  
+  .element-pay-page .text-wrapper-6 {
+    position: relative;
+    width: 68px;
+    height: 31px;
+    margin-top: -1px;
+    font-family: "Saira Condensed-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pay-page .text-wrapper-7 {
+    position: absolute;
+    width: 119px;
+    top: 57px;
+    left: 1191px;
+    font-family: "Saira Condensed-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pay-page .text-wrapper-8 {
+    position: absolute;
+    width: 92px;
+    top: 58px;
+    left: 1329px;
+    font-family: "Saira Condensed-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }

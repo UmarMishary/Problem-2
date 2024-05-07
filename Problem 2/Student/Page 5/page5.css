@@ -1,0 +1,743 @@
+.element-confirmation {
+    background-color: #1c2555;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .element-confirmation .div {
+    background-color: #1c2555;
+    width: 1728px;
+    height: 3260px;
+    position: relative;
+  }
+  
+  .element-confirmation .overlap {
+    position: absolute;
+    width: 1066px;
+    height: 647px;
+    top: 445px;
+    left: 308px;
+  }
+  
+  .element-confirmation .rectangle {
+    position: absolute;
+    width: 1036px;
+    height: 647px;
+    top: 0;
+    left: 30px;
+  }
+  
+  .element-confirmation .text-wrapper {
+    position: absolute;
+    top: 78px;
+    left: 116px;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-confirmation .text-wrapper-2 {
+    position: absolute;
+    top: 78px;
+    left: 508px;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-confirmation .selected-tick {
+    position: absolute;
+    top: 38px;
+    left: 771px;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-confirmation .group {
+    position: absolute;
+    width: 375px;
+    height: 532px;
+    top: 51px;
+    left: 0;
+  }
+  
+  .element-confirmation .overlap-group {
+    position: relative;
+    width: 373px;
+    height: 532px;
+  }
+  
+  .element-confirmation .ellipse {
+    position: absolute;
+    width: 324px;
+    height: 304px;
+    top: 186px;
+    left: 49px;
+    background-color: #ffffff;
+    border-radius: 162px/152px;
+  }
+  
+  .element-confirmation .image {
+    width: 325px;
+    height: 448px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .element-confirmation .text-wrapper-3 {
+    position: absolute;
+    width: 288px;
+    top: 447px;
+    left: 83px;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-confirmation .time-template {
+    position: absolute;
+    width: 546px;
+    height: 189px;
+    top: 243px;
+    left: 467px;
+  }
+  
+  .element-confirmation .text-wrapper-4 {
+    position: absolute;
+    width: 221px;
+    top: 0;
+    left: 21px;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .element-confirmation .overlap-group-wrapper {
+    position: absolute;
+    width: 327px;
+    height: 38px;
+    top: 151px;
+    left: 219px;
+  }
+  
+  .element-confirmation .overlap-group-2 {
+    position: relative;
+    width: 325px;
+    height: 38px;
+    background-color: #ffffff;
+    border-radius: 23px;
+  }
+  
+  .element-confirmation .div-2 {
+    left: 191px;
+    background-color: #d9d9d9;
+    position: absolute;
+    width: 28px;
+    height: 26px;
+    top: 5px;
+    border-radius: 14px/13px;
+  }
+  
+  .element-confirmation .text-wrapper-5 {
+    position: absolute;
+    width: 102px;
+    top: 6px;
+    left: 31px;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .element-confirmation .overlap-wrapper {
+    position: absolute;
+    width: 327px;
+    height: 38px;
+    top: 89px;
+    left: 219px;
+  }
+  
+  .element-confirmation .tick-tick {
+    position: relative;
+    top: 6px;
+    left: 7px;
+    width: 14px;
+    height: 14px;
+    background-color: #000000;
+    border-radius: 7px;
+  }
+  
+  .element-confirmation .text-wrapper-6 {
+    position: absolute;
+    width: 117px;
+    top: 5px;
+    left: 31px;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .element-confirmation .overlap-2 {
+    position: absolute;
+    width: 546px;
+    height: 38px;
+    top: 38px;
+    left: 0;
+  }
+  
+  .element-confirmation .div-wrapper {
+    position: absolute;
+    width: 546px;
+    height: 38px;
+    top: 0;
+    left: 0;
+  }
+  
+  .element-confirmation .overlap-3 {
+    position: relative;
+    width: 544px;
+    height: 38px;
+    background-color: #ffffff;
+    border-radius: 23px;
+  }
+  
+  .element-confirmation .text-wrapper-7 {
+    position: absolute;
+    width: 221px;
+    top: 6px;
+    left: 9px;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-confirmation .ellipse-2 {
+    position: absolute;
+    width: 28px;
+    height: 26px;
+    top: 5px;
+    left: 410px;
+    background-color: #d9d9d9;
+    border-radius: 14px/13px;
+  }
+  
+  .element-confirmation .tick-tick-2 {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    top: 11px;
+    left: 417px;
+    background-color: #000000;
+    border-radius: 7px;
+  }
+  
+  .element-confirmation .overlap-4 {
+    position: absolute;
+    width: 1036px;
+    height: 720px;
+    top: 1449px;
+    left: 338px;
+    background-image: url(./img/rectangle-17.svg);
+    background-size: 100% 100%;
+  }
+  
+  .element-confirmation .text-wrapper-8 {
+    position: absolute;
+    top: 52px;
+    left: 101px;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-confirmation .text-wrapper-9 {
+    position: absolute;
+    top: 52px;
+    left: 454px;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-confirmation .selected-tick-2 {
+    position: absolute;
+    top: 31px;
+    left: 716px;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-confirmation .time-template-2 {
+    position: absolute;
+    width: 546px;
+    height: 376px;
+    top: 272px;
+    left: 437px;
+  }
+  
+  .element-confirmation .overlap-5 {
+    position: absolute;
+    width: 327px;
+    height: 287px;
+    top: 89px;
+    left: 219px;
+  }
+  
+  .element-confirmation .group-2 {
+    position: absolute;
+    width: 327px;
+    height: 38px;
+    top: 62px;
+    left: 0;
+  }
+  
+  .element-confirmation .text-wrapper-10 {
+    position: absolute;
+    width: 102px;
+    top: 6px;
+    left: 31px;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #fc2323;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .element-confirmation .group-3 {
+    position: absolute;
+    width: 327px;
+    height: 38px;
+    top: 126px;
+    left: 0;
+  }
+  
+  .element-confirmation .text-wrapper-11 {
+    position: absolute;
+    width: 140px;
+    top: 6px;
+    left: 31px;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #ff3636;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .element-confirmation .group-4 {
+    position: absolute;
+    width: 327px;
+    height: 102px;
+    top: 185px;
+    left: 0;
+  }
+  
+  .element-confirmation .overlap-6 {
+    position: absolute;
+    width: 325px;
+    height: 38px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 23px;
+  }
+  
+  .element-confirmation .group-5 {
+    position: absolute;
+    width: 327px;
+    height: 38px;
+    top: 64px;
+    left: 0;
+  }
+  
+  .element-confirmation .group-6 {
+    position: absolute;
+    width: 327px;
+    height: 275px;
+    top: 0;
+    left: 0;
+  }
+  
+  .element-confirmation .text-wrapper-12 {
+    position: absolute;
+    width: 117px;
+    top: 5px;
+    left: 31px;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #ff3636;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .element-confirmation .tick-tick-3 {
+    position: absolute;
+    top: 261px;
+    left: 198px;
+    width: 14px;
+    height: 14px;
+    background-color: #000000;
+    border-radius: 7px;
+  }
+  
+  .element-confirmation .group-7 {
+    position: absolute;
+    width: 402px;
+    height: 447px;
+    top: 230px;
+    left: 12px;
+  }
+  
+  .element-confirmation .overlap-7 {
+    position: relative;
+    width: 400px;
+    height: 447px;
+  }
+  
+  .element-confirmation .ellipse-3 {
+    position: absolute;
+    width: 341px;
+    height: 317px;
+    top: 72px;
+    left: 23px;
+    background-color: #ffffff;
+    border-radius: 170.55px/158.32px;
+  }
+  
+  .element-confirmation .text-wrapper-13 {
+    position: absolute;
+    width: 353px;
+    top: 362px;
+    left: 23px;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-confirmation .img {
+    width: 400px;
+    height: 344px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .element-confirmation .text-wrapper-14 {
+    position: absolute;
+    width: 1235px;
+    top: 137px;
+    left: 188px;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 85px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-confirmation .group-8 {
+    position: absolute;
+    width: 1024px;
+    height: 99px;
+    top: 328px;
+    left: 341px;
+  }
+  
+  .element-confirmation .overlap-8 {
+    position: relative;
+    width: 1022px;
+    height: 99px;
+  }
+  
+  .element-confirmation .rectangle-2 {
+    position: absolute;
+    width: 711px;
+    height: 80px;
+    top: 0;
+    left: 143px;
+    background-color: #041244;
+    border-radius: 17px;
+  }
+  
+  .element-confirmation .text-wrapper-15 {
+    position: absolute;
+    width: 1022px;
+    top: 6px;
+    left: 0;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-confirmation .group-9 {
+    position: absolute;
+    width: 952px;
+    height: 80px;
+    top: 1334px;
+    left: 338px;
+  }
+  
+  .element-confirmation .overlap-9 {
+    position: relative;
+    width: 950px;
+    height: 80px;
+  }
+  
+  .element-confirmation .rectangle-3 {
+    position: absolute;
+    width: 726px;
+    height: 80px;
+    top: 0;
+    left: 112px;
+    background-color: #041244;
+    border-radius: 17px;
+  }
+  
+  .element-confirmation .text-wrapper-16 {
+    position: absolute;
+    width: 950px;
+    top: 11px;
+    left: 0;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .element-confirmation .overlap-10 {
+    position: absolute;
+    width: 1032px;
+    height: 559px;
+    top: 2343px;
+    left: 323px;
+  }
+  
+  .element-confirmation .done-choosing-let-s {
+    position: absolute;
+    width: 975px;
+    top: 0;
+    left: 57px;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-confirmation .rectangle-4 {
+    position: absolute;
+    width: 1018px;
+    height: 220px;
+    top: 119px;
+    left: 0;
+    background-color: #d9d9d9;
+    border-radius: 190px;
+  }
+  
+  .element-confirmation .your-total-classes {
+    position: absolute;
+    width: 975px;
+    top: 148px;
+    left: 25px;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-confirmation .span {
+    color: #07005f;
+  }
+  
+  .element-confirmation .text-wrapper-17 {
+    color: #ffffff;
+  }
+  
+  .element-confirmation .text-wrapper-18 {
+    color: #b7121f;
+  }
+  
+  .element-confirmation .text-wrapper-19 {
+    color: #000000;
+  }
+  
+  .element-confirmation .group-10 {
+    position: absolute;
+    width: 563px;
+    height: 160px;
+    top: 2941px;
+    left: 580px;
+  }
+  
+  .element-confirmation .overlap-11 {
+    position: relative;
+    width: 561px;
+    height: 160px;
+  }
+  
+  .element-confirmation .rectangle-5 {
+    position: absolute;
+    width: 538px;
+    height: 160px;
+    top: 0;
+    left: 12px;
+    background-color: #55ce37;
+    border-radius: 91px;
+  }
+  
+  .element-confirmation .text-wrapper-20 {
+    position: absolute;
+    width: 561px;
+    top: 23px;
+    left: 0;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #07005f;
+    font-size: 96px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .element-confirmation .group-11 {
+    position: absolute;
+    width: 434px;
+    height: 46px;
+    top: 251px;
+    left: 624px;
+  }
+  
+  .element-confirmation .overlap-12 {
+    position: relative;
+    width: 432px;
+    height: 46px;
+  }
+  
+  .element-confirmation .ellipse-4 {
+    left: 0;
+    background-color: #fc2323;
+    position: absolute;
+    width: 28px;
+    height: 26px;
+    top: 5px;
+    border-radius: 14px/13px;
+  }
+  
+  .element-confirmation .text-wrapper-21 {
+    position: absolute;
+    width: 420px;
+    top: 0;
+    left: 12px;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-confirmation .group-12 {
+    position: fixed;
+    width: 135px;
+    height: 62px;
+    top: 12px;
+    left: 14px;
+  }
+  
+  .element-confirmation .overlap-13 {
+    position: relative;
+    width: 133px;
+    height: 62px;
+    background-color: #ff3636;
+    border-radius: 33px;
+  }
+  
+  .element-confirmation .text-wrapper-22 {
+    position: absolute;
+    width: 80px;
+    top: 15px;
+    left: 27px;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }

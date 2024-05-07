@@ -1,0 +1,609 @@
+.element-pay {
+    background-color: #1c2555;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .element-pay .div {
+    background-color: #1c2555;
+    width: 1728px;
+    height: 4540px;
+    position: relative;
+  }
+  
+  .element-pay .overlap {
+    position: absolute;
+    width: 1018px;
+    height: 220px;
+    top: 3777px;
+    left: 349px;
+    background-color: #d9d9d9;
+    border-radius: 190px;
+  }
+  
+  .element-pay .your-total-classes {
+    position: absolute;
+    width: 975px;
+    top: 29px;
+    left: 25px;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pay .text-wrapper {
+    color: #07005f;
+  }
+  
+  .element-pay .span {
+    color: #ffffff;
+  }
+  
+  .element-pay .text-wrapper-2 {
+    color: #b7121f;
+  }
+  
+  .element-pay .text-wrapper-3 {
+    color: #000000;
+  }
+  
+  .element-pay .overlap-group {
+    position: absolute;
+    width: 1148px;
+    height: 691px;
+    top: 2885px;
+    left: 288px;
+    background-color: #4f517e;
+    border-radius: 56px;
+  }
+  
+  .element-pay .overlap-2 {
+    position: absolute;
+    width: 489px;
+    height: 161px;
+    top: 81px;
+    left: 338px;
+  }
+  
+  .element-pay .text-wrapper-4 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Abel-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pay .text-wrapper-5 {
+    position: absolute;
+    top: 79px;
+    left: 104px;
+    font-family: "Abel-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pay .text-wrapper-6 {
+    position: absolute;
+    top: 79px;
+    left: 272px;
+    font-family: "Abel-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pay .overlap-3 {
+    position: absolute;
+    width: 156px;
+    height: 129px;
+    top: 248px;
+    left: 406px;
+  }
+  
+  .element-pay .rectangle {
+    position: absolute;
+    width: 156px;
+    height: 112px;
+    top: 0;
+    left: 0;
+    background-color: #d9d9d9;
+    border-radius: 22px;
+  }
+  
+  .element-pay .phy-pre-u {
+    position: absolute;
+    width: 148px;
+    top: 4px;
+    left: 0;
+    font-family: "ABeeZee-Regular", Helvetica;
+    font-weight: 400;
+    color: #07005f;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pay .rectangle-2 {
+    position: absolute;
+    width: 156px;
+    height: 112px;
+    top: 398px;
+    left: 406px;
+    background-color: #d9d9d9;
+    border-radius: 22px;
+  }
+  
+  .element-pay .rectangle-3 {
+    position: absolute;
+    width: 156px;
+    height: 112px;
+    top: 248px;
+    left: 578px;
+    background-color: #d9d9d9;
+    border-radius: 22px;
+  }
+  
+  .element-pay .rectangle-4 {
+    position: absolute;
+    width: 156px;
+    height: 112px;
+    top: 398px;
+    left: 578px;
+    background-color: #d9d9d9;
+    border-radius: 22px;
+  }
+  
+  .element-pay .text-wrapper-7 {
+    top: 264px;
+    left: 273px;
+    position: absolute;
+    width: 108px;
+    font-family: "Abel-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pay .text-wrapper-8 {
+    top: 418px;
+    left: 273px;
+    position: absolute;
+    width: 108px;
+    font-family: "Abel-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pay .text-wrapper-9 {
+    top: 547px;
+    left: 273px;
+    position: absolute;
+    width: 108px;
+    font-family: "Abel-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pay .rectangle-5 {
+    position: absolute;
+    width: 156px;
+    height: 112px;
+    top: 548px;
+    left: 406px;
+    background-color: #d9d9d9;
+    border-radius: 22px;
+  }
+  
+  .element-pay .rectangle-6 {
+    position: absolute;
+    width: 156px;
+    height: 112px;
+    top: 548px;
+    left: 578px;
+    background-color: #d9d9d9;
+    border-radius: 22px;
+  }
+  
+  .element-pay .overlap-4 {
+    position: absolute;
+    width: 1148px;
+    height: 632px;
+    top: 2188px;
+    left: 288px;
+    background-color: #4f517e;
+    border-radius: 56px;
+  }
+  
+  .element-pay .rectangle-7 {
+    position: absolute;
+    width: 156px;
+    height: 112px;
+    top: 282px;
+    left: 189px;
+    background-color: #d9d9d9;
+    border-radius: 22px;
+  }
+  
+  .element-pay .rectangle-8 {
+    position: absolute;
+    width: 156px;
+    height: 112px;
+    top: 432px;
+    left: 189px;
+    background-color: #d9d9d9;
+    border-radius: 22px;
+  }
+  
+  .element-pay .rectangle-9 {
+    position: absolute;
+    width: 156px;
+    height: 112px;
+    top: 282px;
+    left: 361px;
+    background-color: #d9d9d9;
+    border-radius: 22px;
+  }
+  
+  .element-pay .rectangle-10 {
+    position: absolute;
+    width: 156px;
+    height: 112px;
+    top: 282px;
+    left: 533px;
+    background-color: #d9d9d9;
+    border-radius: 22px;
+  }
+  
+  .element-pay .rectangle-11 {
+    position: absolute;
+    width: 156px;
+    height: 112px;
+    top: 432px;
+    left: 533px;
+    background-color: #d9d9d9;
+    border-radius: 22px;
+  }
+  
+  .element-pay .rectangle-12 {
+    position: absolute;
+    width: 156px;
+    height: 112px;
+    top: 432px;
+    left: 705px;
+    background-color: #d9d9d9;
+    border-radius: 22px;
+  }
+  
+  .element-pay .rectangle-13 {
+    position: absolute;
+    width: 156px;
+    height: 112px;
+    top: 282px;
+    left: 705px;
+    background-color: #d9d9d9;
+    border-radius: 22px;
+  }
+  
+  .element-pay .maths-spm-wrapper {
+    position: absolute;
+    width: 156px;
+    height: 112px;
+    top: 282px;
+    left: 877px;
+    background-color: #d9d9d9;
+    border-radius: 22px;
+  }
+  
+  .element-pay .maths-spm {
+    position: absolute;
+    width: 148px;
+    top: 9px;
+    left: 4px;
+    font-family: "ABeeZee-Regular", Helvetica;
+    font-weight: 400;
+    color: #07005f;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pay .rectangle-14 {
+    position: absolute;
+    width: 156px;
+    height: 112px;
+    top: 432px;
+    left: 877px;
+    background-color: #d9d9d9;
+    border-radius: 22px;
+  }
+  
+  .element-pay .rectangle-15 {
+    position: absolute;
+    width: 156px;
+    height: 112px;
+    top: 432px;
+    left: 361px;
+    background-color: #d9d9d9;
+    border-radius: 22px;
+  }
+  
+  .element-pay .text-wrapper-10 {
+    position: absolute;
+    top: 194px;
+    left: 217px;
+    font-family: "Abel-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pay .text-wrapper-11 {
+    position: absolute;
+    top: 102px;
+    left: 345px;
+    font-family: "Abel-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pay .text-wrapper-12 {
+    position: absolute;
+    top: 194px;
+    left: 397px;
+    font-family: "Abel-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pay .text-wrapper-13 {
+    position: absolute;
+    top: 194px;
+    left: 557px;
+    font-family: "Abel-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pay .text-wrapper-14 {
+    position: absolute;
+    top: 194px;
+    left: 740px;
+    font-family: "Abel-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pay .text-wrapper-15 {
+    position: absolute;
+    top: 194px;
+    left: 922px;
+    font-family: "Abel-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pay .text-wrapper-16 {
+    top: 289px;
+    left: 77px;
+    position: absolute;
+    width: 108px;
+    font-family: "Abel-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pay .text-wrapper-17 {
+    position: absolute;
+    width: 94px;
+    top: 436px;
+    left: 84px;
+    font-family: "Abel-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pay .text-wrapper-18 {
+    position: absolute;
+    width: 1140px;
+    top: 91px;
+    left: 292px;
+    font-family: "Angkor-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 128px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pay .if-a-class-is {
+    position: absolute;
+    width: 1104px;
+    top: 379px;
+    left: 310px;
+    font-family: "Anek Odia-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 64px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pay .CLASS-SCHEDULE-MAY {
+    position: absolute;
+    width: 1008px;
+    top: 1967px;
+    left: 365px;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 96px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pay .text-wrapper-19 {
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 96px;
+    letter-spacing: 0;
+  }
+  
+  .element-pay .text-wrapper-20 {
+    font-size: 64px;
+  }
+  
+  .element-pay .overlap-5 {
+    position: absolute;
+    width: 780px;
+    height: 272px;
+    top: 4089px;
+    left: 472px;
+  }
+  
+  .element-pay .text-wrapper-21 {
+    position: absolute;
+    width: 780px;
+    top: 0;
+    left: 0;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pay .group {
+    position: absolute;
+    width: 311px;
+    height: 136px;
+    top: 136px;
+    left: 235px;
+  }
+  
+  .element-pay .overlap-group-2 {
+    position: relative;
+    width: 309px;
+    height: 136px;
+  }
+  
+  .element-pay .rectangle-16 {
+    position: absolute;
+    width: 282px;
+    height: 136px;
+    top: 0;
+    left: 12px;
+    background-color: #55ce37;
+    border-radius: 43px;
+  }
+  
+  .element-pay .text-wrapper-22 {
+    position: absolute;
+    width: 309px;
+    top: 32px;
+    left: 0;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #07005f;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pay .overlap-wrapper {
+    position: fixed;
+    width: 135px;
+    height: 62px;
+    top: 14px;
+    left: 10px;
+  }
+  
+  .element-pay .div-wrapper {
+    position: relative;
+    width: 133px;
+    height: 62px;
+    background-color: #ff3636;
+    border-radius: 33px;
+  }
+  
+  .element-pay .text-wrapper-23 {
+    position: absolute;
+    width: 80px;
+    top: 15px;
+    left: 27px;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }

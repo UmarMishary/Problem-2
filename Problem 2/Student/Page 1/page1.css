@@ -1,0 +1,599 @@
+.element-pilih-pakej {
+    background-color: #1c2555;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .element-pilih-pakej .div {
+    background-color: #1c2555;
+    overflow: hidden;
+    width: 1728px;
+    height: 5990px;
+    position: relative;
+  }
+  
+  .element-pilih-pakej .overlap {
+    position: absolute;
+    width: 1237px;
+    height: 384px;
+    top: 3206px;
+    left: 228px;
+  }
+  
+  .element-pilih-pakej .rectangle {
+    position: absolute;
+    width: 1237px;
+    height: 248px;
+    top: 0;
+    left: 0;
+    background-color: #9997b7;
+  }
+  
+  .element-pilih-pakej .rectangle-2 {
+    position: absolute;
+    width: 1237px;
+    height: 248px;
+    top: 136px;
+    left: 0;
+    background-color: #d9d9d9;
+  }
+  
+  .element-pilih-pakej .SOLO-SUBJECT {
+    position: absolute;
+    width: 359px;
+    top: 193px;
+    left: 850px;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pilih-pakej .text-wrapper {
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 64px;
+    letter-spacing: 0;
+  }
+  
+  .element-pilih-pakej .span {
+    font-size: 36px;
+  }
+  
+  .element-pilih-pakej .text-wrapper-2 {
+    font-size: 16px;
+  }
+  
+  .element-pilih-pakej .ELITE-SUBJECT {
+    position: absolute;
+    width: 360px;
+    top: 193px;
+    left: 11px;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pilih-pakej .MYTHIC-SUBJECT {
+    position: absolute;
+    width: 359px;
+    top: 193px;
+    left: 439px;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pilih-pakej .line {
+    position: absolute;
+    width: 2px;
+    height: 213px;
+    top: 153px;
+    left: 394px;
+    object-fit: cover;
+  }
+  
+  .element-pilih-pakej .img {
+    position: absolute;
+    width: 2px;
+    height: 213px;
+    top: 154px;
+    left: 823px;
+    object-fit: cover;
+  }
+  
+  .element-pilih-pakej .text-wrapper-3 {
+    position: absolute;
+    width: 1156px;
+    top: 12px;
+    left: 53px;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 80px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pilih-pakej .overlap-group {
+    position: absolute;
+    width: 540px;
+    height: 234px;
+    top: 375px;
+    left: 235px;
+    background-color: #ffffff;
+    border-radius: 55px;
+  }
+  
+  .element-pilih-pakej .group {
+    position: relative;
+    width: 531px;
+    height: 221px;
+    top: 6px;
+    left: 6px;
+  }
+  
+  .element-pilih-pakej .overlap-group-2 {
+    position: relative;
+    width: 529px;
+    height: 221px;
+    background-color: #8ea6ae;
+    border-radius: 55px;
+  }
+  
+  .element-pilih-pakej .rectangle-3 {
+    position: absolute;
+    width: 529px;
+    height: 221px;
+    top: 0;
+    left: 0;
+    background-color: #8ea6ae;
+    border-radius: 55px;
+  }
+  
+  .element-pilih-pakej .text-wrapper-4 {
+    position: absolute;
+    width: 504px;
+    top: 0;
+    left: 26px;
+    font-family: "Inter-MediumItalic", Helvetica;
+    font-weight: 500;
+    font-style: italic;
+    color: #07005f;
+    font-size: 96px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pilih-pakej .want-to-book-a {
+    position: absolute;
+    width: 664px;
+    top: 340px;
+    left: 805px;
+    font-family: "Petrona-MediumItalic", Helvetica;
+    font-weight: 500;
+    font-style: italic;
+    color: #ffffff;
+    font-size: 80px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pilih-pakej .text-wrapper-5 {
+    position: absolute;
+    width: 1235px;
+    top: 3032px;
+    left: 225px;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 85px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pilih-pakej .overlap-2 {
+    position: absolute;
+    width: 1237px;
+    height: 384px;
+    top: 3698px;
+    left: 228px;
+  }
+  
+  .element-pilih-pakej .p {
+    position: absolute;
+    width: 1161px;
+    top: 886px;
+    left: 259px;
+    font-family: "Inter-MediumItalic", Helvetica;
+    font-weight: 500;
+    font-style: italic;
+    color: #ffffff;
+    font-size: 80px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pilih-pakej .overlap-3 {
+    position: absolute;
+    width: 1161px;
+    height: 1424px;
+    top: 1197px;
+    left: 268px;
+    background-color: #d9d9d9;
+  }
+  
+  .element-pilih-pakej .text-wrapper-6 {
+    position: absolute;
+    width: 761px;
+    top: 111px;
+    left: 232px;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #07005f;
+    font-size: 85px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pilih-pakej .rectangle-4 {
+    position: absolute;
+    width: 1110px;
+    height: 1372px;
+    top: 24px;
+    left: 24px;
+    background-color: #d9d9d9;
+  }
+  
+  .element-pilih-pakej .text-wrapper-7 {
+    width: 637px;
+    top: 424px;
+    left: 253px;
+    position: absolute;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #07005f;
+    font-size: 85px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pilih-pakej .text-wrapper-8 {
+    width: 709px;
+    top: 751px;
+    left: 258px;
+    position: absolute;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #07005f;
+    font-size: 85px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pilih-pakej .text-wrapper-9 {
+    position: absolute;
+    width: 761px;
+    top: 1057px;
+    left: 191px;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #07005f;
+    font-size: 85px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pilih-pakej .text-wrapper-10 {
+    position: absolute;
+    width: 1244px;
+    top: 4326px;
+    left: 225px;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pilih-pakej .div-wrapper {
+    position: absolute;
+    width: 500px;
+    height: 230px;
+    top: 4605px;
+    left: 597px;
+    background-color: #d9d9d9;
+  }
+  
+  .element-pilih-pakej .text-wrapper-11 {
+    position: absolute;
+    width: 498px;
+    top: 30px;
+    left: 0;
+    font-family: "Petrona-MediumItalic", Helvetica;
+    font-weight: 500;
+    font-style: italic;
+    color: #000000;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pilih-pakej .overlap-4 {
+    position: absolute;
+    width: 339px;
+    height: 149px;
+    top: 617px;
+    left: 323px;
+  }
+  
+  .element-pilih-pakej .text-wrapper-12 {
+    position: absolute;
+    width: 170px;
+    top: 34px;
+    left: 0;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pilih-pakej .image {
+    position: absolute;
+    width: 226px;
+    height: 149px;
+    top: 0;
+    left: 113px;
+    object-fit: cover;
+  }
+  
+  .element-pilih-pakej .overlap-wrapper {
+    position: absolute;
+    width: 1842px;
+    height: 169px;
+    top: 0;
+    left: 0;
+  }
+  
+  .element-pilih-pakej .overlap-5 {
+    position: relative;
+    width: 1832px;
+    height: 169px;
+  }
+  
+  .element-pilih-pakej .rectangle-5 {
+    position: absolute;
+    width: 1793px;
+    height: 144px;
+    top: 13px;
+    left: 0;
+    background-color: #ffffff;
+  }
+  
+  .element-pilih-pakej .overlap-group-wrapper {
+    position: absolute;
+    width: 202px;
+    height: 169px;
+    top: 0;
+    left: 1592px;
+  }
+  
+  .element-pilih-pakej .overlap-group-3 {
+    position: relative;
+    height: 169px;
+  }
+  
+  .element-pilih-pakej .polygon {
+    position: absolute;
+    width: 160px;
+    height: 169px;
+    top: 0;
+    left: 42px;
+  }
+  
+  .element-pilih-pakej .rectangle-6 {
+    position: absolute;
+    width: 84px;
+    height: 145px;
+    top: 12px;
+    left: 0;
+    background-color: #d9d9d9;
+  }
+  
+  .element-pilih-pakej .ellipse {
+    position: absolute;
+    width: 122px;
+    height: 131px;
+    top: 19px;
+    left: 46px;
+    object-fit: cover;
+  }
+  
+  .element-pilih-pakej .text-wrapper-13 {
+    position: absolute;
+    width: 757px;
+    top: 24px;
+    left: 186px;
+    font-family: "Inknut Antiqua-Regular", Helvetica;
+    font-weight: 400;
+    color: #090909;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pilih-pakej .text-wrapper-14 {
+    position: absolute;
+    width: 66px;
+    top: 65px;
+    left: 1011px;
+    font-family: "Saira Condensed-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pilih-pakej .text-wrapper-15 {
+    position: absolute;
+    width: 72px;
+    top: 65px;
+    left: 1110px;
+    font-family: "Saira Condensed-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pilih-pakej .rectangle-7 {
+    position: absolute;
+    width: 134px;
+    height: 144px;
+    top: 13px;
+    left: 1665px;
+    background-color: #646363;
+  }
+  
+  .element-pilih-pakej .group-2 {
+    position: absolute;
+    width: 188px;
+    height: 166px;
+    top: 2px;
+    left: 1644px;
+  }
+  
+  .element-pilih-pakej .overlap-6 {
+    position: relative;
+    height: 166px;
+  }
+  
+  .element-pilih-pakej .group-3 {
+    position: absolute;
+    width: 84px;
+    height: 145px;
+    top: 11px;
+    left: 0;
+    background-color: #878686;
+  }
+  
+  .element-pilih-pakej .polygon-2 {
+    position: absolute;
+    width: 140px;
+    height: 166px;
+    top: 0;
+    left: 48px;
+  }
+  
+  .element-pilih-pakej .group-4 {
+    position: absolute;
+    width: 188px;
+    height: 166px;
+    top: 2px;
+    left: 1598px;
+  }
+  
+  .element-pilih-pakej .group-5 {
+    position: absolute;
+    width: 84px;
+    height: 145px;
+    top: 11px;
+    left: 0;
+    background-color: #d9d9d9;
+  }
+  
+  .element-pilih-pakej .group-6 {
+    position: absolute;
+    width: 188px;
+    height: 166px;
+    top: 2px;
+    left: 1546px;
+  }
+  
+  .element-pilih-pakej .group-7 {
+    position: absolute;
+    width: 84px;
+    height: 145px;
+    top: 11px;
+    left: 0;
+    background-color: #ffffff;
+  }
+  
+  .element-pilih-pakej .frame {
+    display: flex;
+    flex-direction: column;
+    width: 118px;
+    height: 71px;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 10px;
+    position: absolute;
+    top: 52px;
+    left: 1531px;
+    background-color: #fc2323;
+  }
+  
+  .element-pilih-pakej .text-wrapper-16 {
+    position: relative;
+    width: 68px;
+    height: 31px;
+    margin-top: -1px;
+    font-family: "Saira Condensed-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pilih-pakej .text-wrapper-17 {
+    position: absolute;
+    width: 123px;
+    top: 65px;
+    left: 1232px;
+    font-family: "Saira Condensed-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pilih-pakej .text-wrapper-18 {
+    position: absolute;
+    width: 95px;
+    top: 66px;
+    left: 1374px;
+    font-family: "Saira Condensed-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }

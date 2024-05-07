@@ -1,0 +1,382 @@
+.element-pilih-subjek {
+    background-color: #1c2555;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .element-pilih-subjek .div {
+    background-color: #1c2555;
+    width: 1728px;
+    height: 2228px;
+    position: relative;
+  }
+  
+  .element-pilih-subjek .overlap {
+    position: absolute;
+    width: 975px;
+    height: 180px;
+    top: 880px;
+    left: 374px;
+  }
+  
+  .element-pilih-subjek .rectangle {
+    position: absolute;
+    width: 964px;
+    height: 180px;
+    top: 0;
+    left: 11px;
+  }
+  
+  .element-pilih-subjek .group {
+    position: absolute;
+    width: 952px;
+    height: 80px;
+    top: 19px;
+    left: 0;
+  }
+  
+  .element-pilih-subjek .overlap-group {
+    position: relative;
+    width: 950px;
+    height: 80px;
+  }
+  
+  .element-pilih-subjek .rectangle-2 {
+    position: absolute;
+    width: 726px;
+    height: 80px;
+    top: 0;
+    left: 112px;
+    background-color: #041244;
+    border-radius: 17px;
+  }
+  
+  .element-pilih-subjek .text-wrapper {
+    position: absolute;
+    width: 950px;
+    top: 11px;
+    left: 0;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .element-pilih-subjek .text-wrapper-2 {
+    position: absolute;
+    width: 376px;
+    top: 105px;
+    left: 287px;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 48px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .element-pilih-subjek .overlap-2 {
+    position: absolute;
+    width: 1024px;
+    height: 180px;
+    top: 548px;
+    left: 358px;
+  }
+  
+  .element-pilih-subjek .img {
+    position: absolute;
+    width: 964px;
+    height: 180px;
+    top: 0;
+    left: 27px;
+  }
+  
+  .element-pilih-subjek .overlap-group-wrapper {
+    position: absolute;
+    width: 1024px;
+    height: 99px;
+    top: 10px;
+    left: 0;
+  }
+  
+  .element-pilih-subjek .overlap-group-2 {
+    position: relative;
+    width: 1022px;
+    height: 99px;
+  }
+  
+  .element-pilih-subjek .rectangle-3 {
+    position: absolute;
+    width: 711px;
+    height: 80px;
+    top: 0;
+    left: 143px;
+    background-color: #041244;
+    border-radius: 17px;
+  }
+  
+  .element-pilih-subjek .text-wrapper-3 {
+    position: absolute;
+    width: 1022px;
+    top: 6px;
+    left: 0;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pilih-subjek .text-wrapper-4 {
+    top: 103px;
+    left: 303px;
+    position: absolute;
+    width: 376px;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 48px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .element-pilih-subjek .text-wrapper-5 {
+    position: absolute;
+    width: 1235px;
+    top: 373px;
+    left: 231px;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 85px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pilih-subjek .overlap-wrapper {
+    position: absolute;
+    width: 563px;
+    height: 160px;
+    top: 1924px;
+    left: 565px;
+  }
+  
+  .element-pilih-subjek .overlap-3 {
+    position: relative;
+    width: 561px;
+    height: 160px;
+  }
+  
+  .element-pilih-subjek .rectangle-4 {
+    position: absolute;
+    width: 538px;
+    height: 160px;
+    top: 0;
+    left: 12px;
+    background-color: #55ce37;
+    border-radius: 91px;
+  }
+  
+  .element-pilih-subjek .text-wrapper-6 {
+    position: absolute;
+    width: 561px;
+    top: 23px;
+    left: 0;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #07005f;
+    font-size: 96px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .element-pilih-subjek .p {
+    position: absolute;
+    width: 956px;
+    top: 1574px;
+    left: 368px;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 96px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pilih-subjek .overlap-4 {
+    position: absolute;
+    width: 964px;
+    height: 180px;
+    top: 1200px;
+    left: 385px;
+    background-image: url(./img/rectangle-21.svg);
+    background-size: 100% 100%;
+  }
+  
+  .element-pilih-subjek .div-wrapper {
+    position: absolute;
+    width: 872px;
+    height: 80px;
+    top: 10px;
+    left: 29px;
+  }
+  
+  .element-pilih-subjek .overlap-5 {
+    position: relative;
+    width: 870px;
+    height: 80px;
+  }
+  
+  .element-pilih-subjek .rectangle-5 {
+    position: absolute;
+    width: 744px;
+    height: 80px;
+    top: 0;
+    left: 63px;
+    background-color: #041244;
+    border-radius: 17px;
+  }
+  
+  .element-pilih-subjek .text-wrapper-7 {
+    position: absolute;
+    width: 870px;
+    top: 11px;
+    left: 0;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .element-pilih-subjek .text-wrapper-8 {
+    top: 105px;
+    left: 264px;
+    position: absolute;
+    width: 376px;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 48px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .element-pilih-subjek .group-2 {
+    position: absolute;
+    width: 1220px;
+    height: 308px;
+    top: 32px;
+    left: 240px;
+  }
+  
+  .element-pilih-subjek .overlap-6 {
+    position: relative;
+    width: 1218px;
+    height: 308px;
+  }
+  
+  .element-pilih-subjek .rectangle-6 {
+    position: absolute;
+    width: 958px;
+    height: 45px;
+    top: 199px;
+    left: 129px;
+    background-color: #d9d9d9;
+    border-radius: 39px;
+  }
+  
+  .element-pilih-subjek .rectangle-7 {
+    position: absolute;
+    width: 380px;
+    height: 54px;
+    top: 140px;
+    left: 413px;
+    background-color: #d9d9d9;
+    border-radius: 36px;
+  }
+  
+  .element-pilih-subjek .rectangle-8 {
+    position: absolute;
+    width: 358px;
+    height: 130px;
+    top: 6px;
+    left: 430px;
+    background-color: #d9d9d9;
+    border-radius: 563px;
+  }
+  
+  .element-pilih-subjek .SOLO-SUBJECT {
+    position: absolute;
+    width: 1218px;
+    top: 0;
+    left: 0;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 128px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-pilih-subjek .span {
+    color: #041244;
+  }
+  
+  .element-pilih-subjek .text-wrapper-9 {
+    color: #1c2555;
+    font-size: 48px;
+  }
+  
+  .element-pilih-subjek .group-3 {
+    position: fixed;
+    width: 135px;
+    height: 62px;
+    top: 24px;
+    left: 27px;
+  }
+  
+  .element-pilih-subjek .overlap-7 {
+    position: relative;
+    width: 133px;
+    height: 62px;
+    background-color: #ff3636;
+    border-radius: 33px;
+  }
+  
+  .element-pilih-subjek .text-wrapper-10 {
+    position: absolute;
+    width: 80px;
+    top: 15px;
+    left: 27px;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }

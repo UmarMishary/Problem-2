@@ -1,0 +1,276 @@
+.student-comment {
+    background-color: #1c2555;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .student-comment .div {
+    background-color: #1c2555;
+    width: 1728px;
+    height: 1620px;
+    position: relative;
+  }
+  
+  .student-comment .text-wrapper {
+    position: absolute;
+    width: 960px;
+    top: 37px;
+    left: 335px;
+    font-family: "Kaushan Script-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .student-comment .group {
+    position: absolute;
+    width: 1038px;
+    height: 244px;
+    top: 235px;
+    left: 342px;
+  }
+  
+  .student-comment .overlap-group {
+    position: relative;
+    width: 1032px;
+    height: 244px;
+    background-color: #d9d9d9;
+    border-radius: 96px;
+  }
+  
+  .student-comment .p {
+    position: absolute;
+    width: 908px;
+    top: 21px;
+    left: 60px;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #07005f;
+    font-size: 48px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .student-comment .ellipse {
+    position: absolute;
+    width: 56px;
+    height: 52px;
+    top: 108px;
+    left: 247px;
+    background-color: #07005f;
+    border-radius: 28px/26px;
+  }
+  
+  .student-comment .overlap {
+    position: absolute;
+    width: 56px;
+    height: 52px;
+    top: 108px;
+    left: 488px;
+    background-color: #07005f;
+    border-radius: 28px/26px;
+  }
+  
+  .student-comment .ellipse-2 {
+    position: relative;
+    width: 35px;
+    height: 35px;
+    top: 9px;
+    left: 10px;
+    background-color: #ffffff;
+    border-radius: 17.5px;
+  }
+  
+  .student-comment .ellipse-3 {
+    position: absolute;
+    width: 56px;
+    height: 52px;
+    top: 108px;
+    left: 720px;
+    background-color: #07005f;
+    border-radius: 28px/26px;
+  }
+  
+  .student-comment .div-wrapper {
+    left: 35px;
+    background-color: #fc2323;
+    position: absolute;
+    width: 116px;
+    height: 58px;
+    top: 108px;
+    border-radius: 54px;
+  }
+  
+  .student-comment .text-wrapper-2 {
+    position: absolute;
+    width: 82px;
+    top: 9px;
+    left: 17px;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 35px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .student-comment .overlap-2 {
+    left: 852px;
+    background-color: #55ce37;
+    position: absolute;
+    width: 116px;
+    height: 58px;
+    top: 108px;
+    border-radius: 54px;
+  }
+  
+  .student-comment .text-wrapper-3 {
+    position: absolute;
+    width: 115px;
+    top: 9px;
+    left: 1px;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 35px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .student-comment .overlap-wrapper {
+    position: absolute;
+    width: 1038px;
+    height: 244px;
+    top: 608px;
+    left: 342px;
+  }
+  
+  .student-comment .overlap-3 {
+    position: absolute;
+    width: 1032px;
+    height: 244px;
+    top: 1006px;
+    left: 342px;
+    background-color: #d9d9d9;
+    border-radius: 96px;
+  }
+  
+  .student-comment .rectangle {
+    position: absolute;
+    width: 880px;
+    height: 102px;
+    top: 94px;
+    left: 68px;
+    background-color: #07005f;
+    border-radius: 110px;
+  }
+  
+  .student-comment .would-you-like-to {
+    position: absolute;
+    width: 908px;
+    top: 2px;
+    left: 50px;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #07005f;
+    font-size: 48px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .student-comment .span {
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #07005f;
+    font-size: 48px;
+    letter-spacing: 0;
+  }
+  
+  .student-comment .text-wrapper-4 {
+    font-size: 24px;
+  }
+  
+  .student-comment .text-wrapper-5 {
+    position: absolute;
+    width: 708px;
+    top: 123px;
+    left: 104px;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 35px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .student-comment .overlap-group-wrapper {
+    position: absolute;
+    width: 378px;
+    height: 102px;
+    top: 1436px;
+    left: 642px;
+  }
+  
+  .student-comment .overlap-4 {
+    position: relative;
+    width: 376px;
+    height: 102px;
+    background-color: #55ce37;
+    border-radius: 43px;
+  }
+  
+  .student-comment .text-wrapper-6 {
+    position: absolute;
+    width: 372px;
+    top: 16px;
+    left: 4px;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #07005f;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .student-comment .group-2 {
+    position: fixed;
+    width: 135px;
+    height: 62px;
+    top: 24px;
+    left: 22px;
+  }
+  
+  .student-comment .overlap-5 {
+    position: relative;
+    width: 133px;
+    height: 62px;
+    background-color: #ff3636;
+    border-radius: 33px;
+  }
+  
+  .student-comment .text-wrapper-7 {
+    position: absolute;
+    width: 80px;
+    top: 15px;
+    left: 27px;
+    font-family: "Jua-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
